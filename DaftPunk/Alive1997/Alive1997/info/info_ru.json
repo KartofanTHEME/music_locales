@@ -1,0 +1,12 @@
+[{"name":"Alive 1997",
+"album":"Alive 1997",
+"artist":"Daft Punk",
+"release":"2001",
+"genre":"DANCE",
+"explicit":"no",
+"albums":"https://kartofantheme.github.io/music/DaftPunk/albums.json",
+"arturi":"https://kartofantheme.github.io/music/DaftPunk/link.json",
+"link":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/link.json",
+"songs":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/info.json",
+"image":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/hat.jpg",
+"music":"https://firebasestorage.googleapis.com/v0/b/esp-kth.appspot.com/o/music.mp3?alt=media&token=56713983-51c4-4c54-94aa-75de1ab6aa63"}]
