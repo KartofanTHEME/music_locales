@@ -5,7 +5,7 @@
 "album":"Album",
 "time":"3 hours 2 minutes",
 "link":"https://kartofantheme.github.io/music_locales/DaftPunk/Homework/link/link_en.json",
-"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Homework/info/info_en.json"},
+"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Homework/info.json"},
 {"name":"Alive 1997",
 "image":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/hat.jpg",
 "release":"2001",
@@ -13,7 +13,7 @@
 "album":"Live album",
 "time":"46 minutes",
 "link":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive1997/link/link_en.json",
-"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive1997/info/info_en.json"},
+"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive1997/info.json"},
 {"name":"Alive 2007",
 "image":"https://kartofantheme.github.io/music/DaftPunk/Alive2007/hat.png",
 "release":"2007",
@@ -21,4 +21,4 @@
 "album":"Live album",
 "time":"1 hour 24 minutes",
 "link":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive2007/link/link_en.json",
-"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive2007/info/info_en.json"}]
+"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive2007/info.json"}]
