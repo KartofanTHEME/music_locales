@@ -4,9 +4,9 @@
 "release":"2001",
 "genre":"DANCE",
 "explicit":"no",
-"albums":"https://kartofantheme.github.io/music/DaftPunk/albums_de.json",
-"arturi":"https://kartofantheme.github.io/music/DaftPunk/link_de.json",
-"link":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/link_de.json",
-"songs":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/info_de.json",
+"albums":"https://kartofantheme.github.io/music_locales/DaftPunk/albums_de.json",
+"arturi":"https://kartofantheme.github.io/music_locales/DaftPunk/link_de.json",
+"link":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive1997/link_de.json",
+"songs":"https://kartofantheme.github.io/music_locales/DaftPunk/Alive1997/info_de.json",
 "image":"https://kartofantheme.github.io/music/DaftPunk/Alive1997/hat.jpg",
 "music":"https://firebasestorage.googleapis.com/v0/b/esp-kth.appspot.com/o/music.mp3?alt=media&token=56713983-51c4-4c54-94aa-75de1ab6aa63"}]
